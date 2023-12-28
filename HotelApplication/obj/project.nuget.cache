@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "95CSYP0YqSoN+HkxaCzDa0kXKVqCSFB2a0S2+ddZ2cb+L+vFGTVQhYOGel0rT0jWkZ62rC9bnfKi3bLKoN7Y9Q==",
+  "dgSpecHash": "V1DNVdv9pHasWJnHesK9RO9ALTQ8Oidog8DNKiyqwpHFDNjo2A1WDJ4C5LfX4Mcqfo77k/ZHrumF142jfugdhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Baki\\OneDrive\\Masaüstü\\VYTS\\Kodlar\\HotelApplication\\HotelApplication.csproj",
+  "projectFilePath": "C:\\Users\\Baki\\OneDrive\\Belgeler\\GitHub\\Hotel-Application\\Hotel-App\\HotelApplication\\HotelApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Baki\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Baki\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",

@@ -197,11 +197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Baki\\OneDrive\\Masaüstü\\VYTS\\Kodlar\\HotelApplication\\HotelApplication.csproj",
+      "projectUniqueName": "C:\\Users\\Baki\\OneDrive\\Belgeler\\GitHub\\Hotel-Application\\Hotel-App\\HotelApplication\\HotelApplication.csproj",
       "projectName": "HotelApplication",
-      "projectPath": "C:\\Users\\Baki\\OneDrive\\Masaüstü\\VYTS\\Kodlar\\HotelApplication\\HotelApplication.csproj",
+      "projectPath": "C:\\Users\\Baki\\OneDrive\\Belgeler\\GitHub\\Hotel-Application\\Hotel-App\\HotelApplication\\HotelApplication.csproj",
       "packagesPath": "C:\\Users\\Baki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Baki\\OneDrive\\Masaüstü\\VYTS\\Kodlar\\HotelApplication\\obj\\",
+      "outputPath": "C:\\Users\\Baki\\OneDrive\\Belgeler\\GitHub\\Hotel-Application\\Hotel-App\\HotelApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

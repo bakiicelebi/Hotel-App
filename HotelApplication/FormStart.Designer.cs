@@ -87,7 +87,7 @@
             button1.Size = new Size(124, 34);
             button1.TabIndex = 3;
             button1.Tag = "Connect";
-            button1.Text = "button1";
+            button1.Text = "Connect";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
