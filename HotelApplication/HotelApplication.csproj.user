@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Baki\OneDrive\Masaüstü\Ders\Ödev\VYTS\Kodlar\HotelApplication\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCheckoutPop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEmployeePop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormListing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormInfoRoomPop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRoomPop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

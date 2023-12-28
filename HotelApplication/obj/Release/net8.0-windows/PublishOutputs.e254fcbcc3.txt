@@ -1,0 +1,8 @@
+C:\Users\Baki\OneDrive\Masaüstü\VeriTabanı\HotelApplication.exe
+C:\Users\Baki\OneDrive\Masaüstü\VeriTabanı\HotelApplication.dll
+C:\Users\Baki\OneDrive\Masaüstü\VeriTabanı\HotelApplication.deps.json
+C:\Users\Baki\OneDrive\Masaüstü\VeriTabanı\HotelApplication.runtimeconfig.json
+C:\Users\Baki\OneDrive\Masaüstü\VeriTabanı\HotelApplication.pdb
+C:\Users\Baki\OneDrive\Masaüstü\VeriTabanı\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Baki\OneDrive\Masaüstü\VeriTabanı\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Baki\OneDrive\Masaüstü\VeriTabanı\Npgsql.dll
